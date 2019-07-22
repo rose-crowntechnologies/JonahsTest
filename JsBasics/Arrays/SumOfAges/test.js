@@ -28,9 +28,9 @@ const people = [
 ]
 /// Describe is set of tests for one function.
 
-describe('Tests for arrayOfNames', () => {
+describe('Tests for sumOfAges', () => {
 
-    it('should be named arrayOfNames', () => {
+    it('should be named sumOfAges', () => {
         expect(sumOfAges).to.not.be.undefined;
     });
 

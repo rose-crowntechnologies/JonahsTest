@@ -32,7 +32,7 @@ const people = [
 ];
 /// Describe is set of tests for one function.
 
-describe('Tests for arrayOfNames', () => {
+describe('Tests for over5FeetTall', () => {
 	it('should be named over5FeetTall', () => {
 		expect(over5FeetTall).to.not.be.undefined;
 	});
@@ -66,3 +66,4 @@ describe('Tests for arrayOfNames', () => {
 		]);
 	});
 });
+

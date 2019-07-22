@@ -6,7 +6,7 @@ describe('Tests for upperCaseFirstLetter', () => {
 		expect(upperCaseFirstLetter).to.not.be.undefined;
     });
     
-	it(`should count the number of exclamation points`, () => {
+	it(`should upper case the first letter`, () => {
 		const assertion = upperCaseFirstLetter('josh');
 		expect(assertion).to.be.equal('Josh');
     });

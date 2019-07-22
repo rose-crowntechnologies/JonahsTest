@@ -8,4 +8,4 @@
 
 4. Write the code to solve each problem in it's respective index.js file. EX: ./Array/ArrayOfNames/index.js
 
-5.Test you code with the following command in terminal ```Mocha Arrays/ArrayOfNames```
+5.Test your code with the following command in terminal ```Mocha Arrays/ArrayOfNames```
